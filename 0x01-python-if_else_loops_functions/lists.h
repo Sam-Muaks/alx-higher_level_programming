@@ -4,6 +4,8 @@
 
 
 
+#include <stdlib.h>
+
 /**
 
  * struct listint_s - singly linked list
@@ -16,7 +18,7 @@
 
  * Description: singly linked list node structure
 
- *
+ * for Holberton project
 
  */
 
